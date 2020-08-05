@@ -1,0 +1,22 @@
+{
+  "name": "three-js-3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbryw/three-js-3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbryw/three-js-3d/issues"
+  },
+  "homepage": "https://github.com/alexbryw/three-js-3d#readme"
+}
